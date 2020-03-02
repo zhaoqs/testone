@@ -1,3 +1,9 @@
 <?php
-  phpinfo();
+  class Test
+  {
+      public function testone()
+      {
+          echo 'I am test';
+      }
+  }
 ?>
